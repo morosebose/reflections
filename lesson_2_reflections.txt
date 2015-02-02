@@ -2,4 +2,9 @@ What happens when you initialize a repository? Why do you need to do it?
 
 git init creates invisible files that stores the state of the various files when a commit occurs
 
-You need to initialize the repo, add the files with git include, and then commit the repo to create the first snapshot
+You need to initialize the repo, add the files with git add, and then commit the repo to create the first snapshot
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is the place to add files that need to be in the repository. The repository keeps track of the states of those files. The working directory is the area that has all of the above: staging area, files, repository
