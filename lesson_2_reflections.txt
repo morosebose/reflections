@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git init creates invisible files that stores the state of the various files when a commit occurs
+
+You need to initialize the repo, add the files with git include, and then commit the repo to create the first snapshot
