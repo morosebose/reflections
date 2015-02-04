@@ -18,3 +18,7 @@ What are some situations when branches would be helpful in keeping your history 
 - When you are trying out experimental features
 - When you are working on a new or modified version of the product
 - Branches allow you to simultaneously work on two different versions of the product and merge them later, or to keep them separate if that is needed.
+
+How do the diagrams help you visualize the branch structure?
+- It shows what the relationships are between the various branches 
+- It shows what commits are reachable from which branch
