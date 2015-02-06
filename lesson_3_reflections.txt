@@ -18,3 +18,10 @@ What is the benefit of having a copy of the last known state of the remote store
 - Enables fast forward merges
 - Allows offline work by keeping track of changes between remote and local
 - If changes are made both to remote and local, the point of divergence is known
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+- Send files about via email? Would get messy very fast as different people would be working on different files and merging would be hard.
+- Save all files on a server, lock the files when someone checks out? Would make it hard for multiple people to work on a piece of code.,
+- Getting started with those methods would be easier, but the maintenance would become impossible because of the limitations. The time spent to learn git and github is worth it.
