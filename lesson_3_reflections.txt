@@ -25,3 +25,13 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 - Send files about via email? Would get messy very fast as different people would be working on different files and merging would be hard.
 - Save all files on a server, lock the files when someone checks out? Would make it hard for multiple people to work on a piece of code.,
 - Getting started with those methods would be easier, but the maintenance would become impossible because of the limitations. The time spent to learn git and github is worth it.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+- Same answer as in lesson 2: 
+- When you are trying out experimental features
+- When you are working on a new or modified version of the product
+- Branches allow you to simultaneously work on two different versions of the product and merge them later, or to keep them separate if that is needed.
+
+It allows collaboration without danger. It is tedious to make the changes and keep them organized but it saves time in the long run. 
